@@ -32,7 +32,7 @@ page_sections:
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
-  background_image: "/uploads/2022/07/07/copy-of-unnamed-design-logo-1.png"
+  background_image: https://res.cloudinary.com/uac-london/image/upload/v1647273433/masset/v1657275568/ml_default/michael-cavalier-scott-banner-original-art-image-black-and-white_vt8w6l.png
 - template: content-feature
   block: feature-1
   media_alignment: Left
