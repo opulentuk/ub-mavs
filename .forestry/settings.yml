@@ -21,8 +21,8 @@ sections:
 - type: document
   path: _config.yml
   label: Config
-upload_dir: https://res.cloudinary.com/uac-london/image/upload/v1647273433/masset
-public_path: masset
+upload_dir: https://cloudinary.com/console/lui/upload_presets/bc9e423bf738232ca46ce366d91a1ce3/edit
+public_path: https://res.cloudinary.com/uac-london/image/upload/v1647273433/masset
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
