@@ -21,8 +21,8 @@ sections:
 - type: document
   path: _config.yml
   label: Config
-upload_dir: https://cloudinary.com/console/c-00b6297f52e460c070898cfd6056f8/media_library/folders/bfaf4d5f5b89031fb68d947de016cf79e9
-public_path: ''
+upload_dir: ml_default
+public_path: masset
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
